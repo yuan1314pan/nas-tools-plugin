@@ -67,7 +67,7 @@
 	},
 	"CustomBrush": {
 		"id": "CustomBrush",
-		"name": "自定义刷流规则",
+		"name": "自定义刷流同步",
 		"desc": "用于给自定义索引器添加的站点刷流配置免费资源。",
 		"version": "1.0",
 		"icon": "https://github.com/Mattoids/nas-tools-plugin/raw/master/plugins/images/brush.png",
