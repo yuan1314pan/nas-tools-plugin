@@ -87,17 +87,6 @@
 		"author_url": "https://github.com/Mattoids",
 		"download_url": "https://github.com/Mattoids/nas-tools-plugin/raw/master/plugins/prowlarr.py"
 	},
-	"TorrentMark": {
-		"id": "TorrentMark",
-		"name": "种子标记",
-		"desc": "标记种子是否是PT。",
-		"version": "1.0",
-		"icon": "https://github.com/Mattoids/nas-tools-plugin/raw/master/plugins/images/tag.png",
-		"color": "#4876b6",
-		"author": "hsuyelin",
-		"author_url": "https://github.com/hsuyelin",
-		"download_url": "https://github.com/Mattoids/nas-tools-plugin/raw/master/plugins/torrentmark.py"
-	},
 	"SyncIndexer": {
 		"id": "SyncIndexer",
 		"name": "同步索引规则",
